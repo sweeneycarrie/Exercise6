@@ -1,2 +1,3 @@
 Lyrics.txt
 console.log("Boys,girls, I can't help it, baby");
+I hear people saying "Baby's so sweet " ..
