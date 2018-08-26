@@ -1,2 +1,4 @@
 Lyrics.txt
-Every single day. I walk down the street
+
+console.log("Every single day. I walk down the street");
+console.log("Boys,girls, I can't help it, baby");
